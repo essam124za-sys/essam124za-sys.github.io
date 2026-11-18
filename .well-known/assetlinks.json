@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.essam124za_sys.twa",
+      "sha256_cert_fingerprints": [
+        "58:5E:AC:F2:13:D1:5C:AB:E3:EA:9E:FB:02:8F:D2:5F:5B:E0:43:76:A3:E7:84:76:EA:C0:18:82:D6:E5:B3:A8"
+      ]
+    }
+  }
+]
